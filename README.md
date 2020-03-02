@@ -2,6 +2,16 @@
 
 This application is a calendar for scheduling student interviews. It allows for a student to be scheduled for an interview within time blocks during the day, for 5 days of the week. It connects to an external server, defaulted to localhost:8001 for data. Please see https://github.com/wilwong89/scheduler-dashboard for the backend database that this projects connects to.
 
+## Screenshots
+
+!["Example of the sidebar, displaying days of week and spots left for each day"](https://raw.githubusercontent.com/wilwong89/scheduler/master/docs/SideBar.png)
+
+- Example of the sidebar, displaying days of week and spots left for each day
+
+!["Example editing and deletion UI interface"](https://raw.githubusercontent.com/wilwong89/scheduler/master/docs/EditDelete.png)
+
+- Example editing and deletion UI interface
+
 ## Built with
 
 - [ReactJS](https://vuejs.org/) - Front-end framework
